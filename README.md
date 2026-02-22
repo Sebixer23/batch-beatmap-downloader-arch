@@ -1,6 +1,7 @@
 <div align="center">
   <h1 style="color: red;">
     Pretty much brute forced this, I cba updating it and also it only detects stable
+    Also everything below is unmodified so just go to releases (on the right side) for my actual fork.
   </h1>
 </div>
 

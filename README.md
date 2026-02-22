@@ -9,7 +9,7 @@
   </h1>
 <div>
   <h1 align="center">
-  <a href="https://github.com/nzbasic/batch-beatmap-downloader">
+  <a href="https://github.com/Sebixer23/batch-beatmap-downloader-arch/releases/tag/v1.3.0-Arch">
     <img src="https://user-images.githubusercontent.com/54062686/154786704-a8f12c81-1ec3-48e4-a1cb-9f74ed164a43.png" alt="Logo" width="256" height="256">
   </a>
 
@@ -18,7 +18,7 @@
 </h1>
 
 <div align="center">
-  <h3><a href="https://github.com/nzbasic/batch-beatmap-downloader/releases/latest">Download Latest Release</a><h3>
+  <h3><a href="https://github.com/Sebixer23/batch-beatmap-downloader-arch/releases/tag/v1.3.0-Arch">Download Latest Release</a><h3>
 </div>
 
 <div align="center">

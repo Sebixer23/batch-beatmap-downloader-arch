@@ -1,11 +1,14 @@
 <div align="center">
   <h1 style="color: red;">
     Pretty much brute forced this, I cba updating it and also it only detects stable
-    Also everything below is unmodified so just go to releases (on the right side) for my actual fork.
   </h1>
 </div>
-
-<h1 align="center">
+<div align="center">
+  <h1 style="color: red;">
+    FYI everything below is unmodified so just go to releases (on the right side) for my actual fork.
+  </h1>
+<div>
+  <h1 align="center">
   <a href="https://github.com/nzbasic/batch-beatmap-downloader">
     <img src="https://user-images.githubusercontent.com/54062686/154786704-a8f12c81-1ec3-48e4-a1cb-9f74ed164a43.png" alt="Logo" width="256" height="256">
   </a>
